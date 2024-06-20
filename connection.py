@@ -1,4 +1,3 @@
-# connection.py
 from cassandra.cluster import Cluster
 
 def get_connection():

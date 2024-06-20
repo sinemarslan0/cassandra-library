@@ -1,4 +1,3 @@
-# users.py
 from connection import get_connection
 from uuid import uuid4
 
